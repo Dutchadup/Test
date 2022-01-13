@@ -3,6 +3,10 @@
 		{
 			"name": "firstprojectP",
 			"path": "firstprojectP"
+		},
+		{
+			"name": "secondprojectP",
+			"path": "secondprojectP"
 		}
 	]
 }
